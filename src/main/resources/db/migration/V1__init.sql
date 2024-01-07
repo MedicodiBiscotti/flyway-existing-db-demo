@@ -1,0 +1,6 @@
+CREATE TABLE test
+(
+    id    INT AUTO_INCREMENT NOT NULL,
+    value VARCHAR(255) NOT NULL,
+    CONSTRAINT pk_test PRIMARY KEY (id)
+);

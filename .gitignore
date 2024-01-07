@@ -1,5 +1,6 @@
 .env
 flyway.*
+.jpb
 
 HELP.md
 target/
